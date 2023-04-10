@@ -1,0 +1,10 @@
+- Đăng kí, đăng nhập, phân quyền sử dụng JWT
+- Phía quản trị: 
++ CRUD sản phẩm, danh mục + upload ảnh
++ Tìm kiếm theo tên
++ Sắp xếp theo tên, giá
++ Lọc theo danh mục sản phẩm
++ Phân trang
++ Xóa sản phẩm => Cập nhật lại danh mục bao gốm sp đó
++ Xóa danh mục => Chuyển sản phẩm trong danh mục đấy sang danh mục Chưa xác định
+ 
